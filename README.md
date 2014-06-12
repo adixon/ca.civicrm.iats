@@ -5,6 +5,8 @@ CiviCRM Extension for iATS Web Services Payment Processor
 
 Date: Apr 3, 2014, version 1.2
 
+NOTE: This is a development version and not recommended for production. Please use the official repository here: https://github.com/iATSPayments/com.iatspayments.civicrm
+
 
 Requirements
 ------------
