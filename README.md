@@ -1,3 +1,6 @@
+Hey! You probably don't want to use this abandoned repo, read the NOTE below!!
+
+
 ca.civicrm.iats
 ===============
 
